@@ -1,3 +1,3 @@
 # KNN
 
-KNN Project using an artificial 
+KNN Project using an artificial dataset
